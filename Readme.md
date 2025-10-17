@@ -1,28 +1,71 @@
-# 🎲 Pig "Dice" Game
 
-A simple 2-player dice game built for fun and learning!  
-Players take turns rolling a die, racing to reach **100 points** first.
+# Bankist Web App
 
----
+[![License](https://img.shields.io/badge/license-Educational-blue)](https://github.com/Oxcheatcode/Bankist-Web-App/blob/main/LICENSE)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## 🕹️ How to Play
-- On your turn, you roll a die:
-  - If you roll **2–6**, the number adds to your current turn score.
-  - You can choose to **Hold**, which adds your turn score to your total score.
-  - If you roll a **1**, you lose all points from that turn and your turn ends.
-- First player to reach **100 points** wins! 🏆
+A minimalistic **banking web application** built for **JavaScript practice**. This project is based on Jonas Schmedtmann's [Complete JavaScript Course](https://github.com/jonasschmedtmann/complete-javascript-course/tree/master/11-Arrays-Bankist) on Udemy. It focuses on DOM manipulation, array methods, and building interactive UI elements with vanilla JavaScript.
 
----
+## 🌟 Live Demo
+
+You can view the app live in your browser by opening [Bankist app](https://bankist-web-app-eta.vercel.app) or clone the repo and run locally.
+
+> **Tip:** Since this is a front-end only app, no server setup is needed.
 
 ## 🚀 Features
-- Two-player gameplay
-- Keeps track of current score and total score
-- Simple, fun, and fast-paced
 
----
+* Display account balances and transaction history
+* Transfer money between accounts
+* Request loans and close accounts
+* Sort and filter transactions
+* Fully functional UI built with vanilla JavaScript
 
-## 💻 Running the Game
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/OxCheatcode/pig-game
-   cd pig-dice-game
+## 🛠️ Technologies Used
+
+* **HTML5** – structure and layout
+* **CSS3** – minimal styling and responsive UI
+* **JavaScript (ES6+)** – logic, DOM manipulation, events
+* Array methods (`map`, `filter`, `reduce`) for data handling
+* Event-driven programming for interactivity
+
+## 💾 Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Oxcheatcode/Bankist-Web-App.git
+```
+
+2. Navigate into the project folder:
+
+```bash
+cd Bankist-Web-App
+```
+
+3. Open `index.html` in your browser:
+
+```bash
+open index.html  # Mac
+# or just double-click the file in your file explorer
+```
+
+## 🎯 Learning Goals
+
+* Master JavaScript **array methods** and **DOM manipulation**
+* Practice **event-driven programming** and UI updates
+* Build a small, functional front-end app without frameworks
+* Gain hands-on experience with **interactive web applications**
+
+## 📸 Screenshots
+
+
+
+## 📖 References
+
+* [Complete JavaScript Course - Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
+* [Bankist Project GitHub Source](https://github.com/jonasschmedtmann/complete-javascript-course/tree/master/11-Arrays-Bankist)
+
+## ⚖️ License
+
+This project is for **educational purposes** only and inspired by Jonas Schmedtmann’s course.
+
