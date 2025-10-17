@@ -56,8 +56,6 @@ open index.html  # Mac
 * Build a small, functional front-end app without frameworks
 * Gain hands-on experience with **interactive web applications**
 
-## 📸 Screenshots
-
 
 
 ## 📖 References
